@@ -1,0 +1,16 @@
+node_modules/
+
+.env
+.idea/
+.tags
+.tags1
+npm-debug.log
+build/
+build_lib/
+package-lock.json
+
+.idea
+mock/bill-report.js
+mock/multi.js
+mock/realtime-report.js
+mock/strategy-report.js
